@@ -11,10 +11,18 @@ A temperature converter helps in the conversion of the measurement units of th
 * CSS
 * Javascript
 
-# Screenshot
-![Screenshot (51)](https://github.com/Nee1608/Temp_Conv-BH/assets/115866248/f727d198-a8a3-4da0-a644-70bc93933033)
-![Screenshot (52)](https://github.com/Nee1608/Temp_Conv-BH/assets/115866248/74733b93-5ed7-45d7-aea1-cdaac42d7e37)
+# Screenshots
+![Screenshot (51)](https://github.com/Nee1608/Temp_Conv-BH/assets/115866248/1b9e3bb6-fd97-468b-b2a3-e531530ec47a)
+![Screenshot (52)](https://github.com/Nee1608/Temp_Conv-BH/assets/115866248/33860802-c42f-45d7-b23a-298c1fbff938)
 
  # Getting Started
  To get started with Temperature Converter, follow these steps:
- * Clone the repository: 
+ 1. Clone the repository: git clone https://github.com/Nee1608/Temp_Conv-BH.git
+ 2. Navigate to the project directory: cd Temp_Conv-BH
+ 3. Open the index.html file in your web browser.
+
+# Usage
+1. Enter a temperature value in the input field.
+2. After entering the value, you will see the temperature values updated in all three fields (C, F and K).
+3. The converted temperature will be displayed in all unit (Celsius, Fahrenheit and Kelvin) in real-time as you enter or change the values.
+4. You can also clear the values by clicking on reset button.
